@@ -1,0 +1,14 @@
+{
+  "name": "pdf-download-test",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "puppeteer": "^24.2.0"
+  }
+}

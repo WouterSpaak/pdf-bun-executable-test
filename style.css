@@ -1,0 +1,10 @@
+* {
+  print-color-adjust: exact;
+  -webkit-print-color-adjust: exact;
+}
+
+.styled-header {
+  font-size: 5em;
+  color: hotpink;
+  font-family: Arial, Helvetica, sans-serif;
+}
